@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab 7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cGameStuVer.cpp
+  Asteroids.vcxproj -> C:\Users\Turbo\Desktop\Asteroids\Debug\Asteroids.exe
+  copying SDL2.dll to debug directory
+  File not found - *.*
+  0 File(s) copied
+  0 File(s) copied
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Audio\explosion2.wav
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Audio\shot007.wav
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Audio\Space_Coast.mp3
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Audio\who10Edit.wav
+  4 File(s) copied
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Fonts\digital-7.ttf
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Fonts\Pacifico.ttf
+  C:\Users\Turbo\Desktop\Asteroids\Asteroids\Fonts\space age.ttf
+  3 File(s) copied
+  SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied
