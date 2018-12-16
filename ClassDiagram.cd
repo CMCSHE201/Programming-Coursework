@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cBkGround" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>cBkGround.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cBullet">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAgAAAEAAA=</HashCode>
+      <FileName>cBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cButton">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAGAAg=</HashCode>
+      <FileName>cButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cButtonMgr">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAQBAAAAAAAAAQQEAACAAACAAA=</HashCode>
+      <FileName>cButtonMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cEnemy">
+    <Position X="2.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAEAAAAAAgAAAAAAAAAACEAAA=</HashCode>
+      <FileName>cEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cFont">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAIAAAABAAAAAAAAAIAAAAGAAAAAA=</HashCode>
+      <FileName>cFont.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cFontMgr">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAABAAAAAEAAAQIFAACAAAAABA=</HashCode>
+      <FileName>cFontMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cGame">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CRQEEZACIYkALWABIIAAIIAaBAIQACBCBBACAEAAiBI=</HashCode>
+      <FileName>cGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cPlayer">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAABAACAAAAAAAAAAAAAAAAAABAAAAEMAIA=</HashCode>
+      <FileName>cPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSDL2WNDManager">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAIAEAAAEAAIAABQBAAAQACAACAAAAAAI=</HashCode>
+      <FileName>cSDL2WNDManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSound">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAISIAAAAAAAAAAAICAAACIAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>cSound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSoundMgr">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAEAAgAAAAAAgAQAAAICAgACAAA=</HashCode>
+      <FileName>cSoundMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSprite">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wBAGASBgCIBBAgAGEBAHYtCgCAAGABRogIQIEAAQUAA=</HashCode>
+      <FileName>cSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cTexture">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABIAAAhAAAAAkAAIEAAACAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>cTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cTextureMgr">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAgAAAhAAIAAAAAAACQQIAAACAAAEAAA=</HashCode>
+      <FileName>cTextureMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_0021_1">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="FPoint" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="textType">
+    <Position X="4.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAEAAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="soundType">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="gameState">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAgAAAgAAAAAAAAACAABAAAAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="btnTypes">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAAAABAAAACAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
